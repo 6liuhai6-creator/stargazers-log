@@ -1,1 +1,2 @@
 今天开始练习 GitHub：学习记录代码修改。
+我已经学会 Commit 记录修改，Push 上传到 GitHub。
